@@ -7,9 +7,9 @@
 Setelah 5x di klik nilai counter adalah 5, tetapi setelah dibuka tab baru nilai counter menjadi 0
 
 ## Eksperimen 3
-- Cookies: 4 KB
-- LocalStorage: 10 MB
-- SessionStorage: 10 MB
+- Cookies:(kosong)idelan = 4 KB
+- LocalStorage:(kosong)ideal = 10 MB
+- SessionStorage:(kosong)ideal = 10 MB
 
 ## Eksperimen 4
 1. User Theme Preference
